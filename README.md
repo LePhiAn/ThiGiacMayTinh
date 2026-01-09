@@ -1,5 +1,4 @@
 LAB 1: XỬ LÝ ẢNH VỚI THƯ VIỆN PILLOW VÀ OPENCV
-
 1. Mục tiêu
 Làm quen với các thao tác cơ bản trên ảnh kỹ thuật số: hiển thị, cắt (cropping), tách kênh màu.
 Hiểu sự khác biệt về cấu trúc dữ liệu giữa hai thư viện Pillow (PIL) và OpenCV.
